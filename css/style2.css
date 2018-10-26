@@ -1,0 +1,114 @@
+/* MONDRIAN TABLE CSS BY LR*/
+
+/* BODY */
+body{
+  height: 100%;
+  width: 100%;
+  background-color: #333;
+  padding-top: 0;
+}
+
+/* ROWS */
+#rows{
+  height: 600px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+#row1{
+  height: 27.5%;
+  display: flex;
+}
+
+#row2{
+  height: 31.2%;
+  display: flex;
+}
+
+#row3{
+  height: 36.5%;
+  display: flex;
+}
+#row3double{
+  display: flex;
+  flex-direction: column;
+}
+#row3-1{
+  height: 17.2%;
+  display: flex;
+}
+#row3-2{
+  height: 16.8%;
+  display: flex;
+}
+
+/* BORDERS-BOTTOM */
+.bb15{
+  border-bottom: 15px solid black;
+}
+
+.bb14{
+  border-bottom: 14px solid black;
+}
+
+/* BORDERS-RIGHT */
+.br15{
+  border-right: 15px solid black;
+}
+
+.br14{
+  border-right: 14px solid black;
+}
+
+.br7{
+  border-right: 7px solid black;
+}
+
+/* COLORS */
+.white{
+  background-color: white;
+}
+.yellow{
+  background-color: yellow;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+
+/* WIDTHS */
+.width-12{
+  width: 2%;
+}
+
+.width-91{
+  width: 15.2%;
+}
+
+.width-207{
+  width: 34.5%;
+}
+
+.width-240{
+  width: 40%;
+}
+
+.width-84{
+  width: 14%;
+}
+
+.width-141{
+  width: 23.5%;
+}
+
+.width-305{
+  width: 50.8%;
+}
+
+.width-148{
+  width: 24.7%;
+}

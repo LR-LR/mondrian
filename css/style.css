@@ -1,0 +1,112 @@
+/* MONDRIAN TABLE CSS BY LR*/
+
+/* BODY */
+body{
+  background-color: #333;
+  margin-top: 100px;
+}
+
+/* ROWS */
+#rows{
+  height:600px;
+  width:600px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+#row1{
+  height: 165px;
+  display: flex;
+}
+
+#row2{
+  height: 187px;
+  display: flex;
+}
+
+#row3{
+  height: 219px;
+  display: flex;
+}
+#row3double{
+  display: flex;
+  flex-direction: column;
+}
+#row3-1{
+  height: 103px;
+  display: flex;
+}
+#row3-2{
+  height: 101px;
+  display: flex;
+}
+
+/* BORDERS-BOTTOM */
+.bb15{
+  border-bottom: 15px solid black;
+}
+
+.bb14{
+  border-bottom: 14px solid black;
+}
+
+/* BORDERS-RIGHT */
+.br15{
+  border-right: 15px solid black;
+}
+
+.br14{
+  border-right: 14px solid black;
+}
+
+.br7{
+  border-right: 7px solid black;
+}
+
+/* COLORS */
+.white{
+  background-color: white;
+}
+.yellow{
+  background-color: yellow;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+
+/* WIDTHS */
+.width-12{
+  width: 12px;
+}
+
+.width-91{
+  width: 91px;
+}
+
+.width-207{
+  width: 207px;
+}
+
+.width-240{
+  width: 240px;
+}
+
+.width-84{
+  width: 84px;
+}
+
+.width-141{
+  width: 141px;
+}
+
+.width-305{
+  width: 305px;
+}
+
+.width-148{
+  width: 148px;
+}
